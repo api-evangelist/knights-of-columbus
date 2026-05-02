@@ -1,11 +1,33 @@
-# Knights of Columbus
+# Knights of Columbus (knights-of-columbus)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Knights of Columbus.
+Knights of Columbus is the world's largest Catholic fraternal service organization, providing financial protection through insurance, annuities, and long-term care to its members and their families.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/knights-of-columbus/refs/heads/main/apis.yml)
+
+## Scope
+
+- **Type:** Contract
+- **Position:** Consuming
+- **Access:** 3rd-Party
+
+## Tags:
+
+ - Insurance, Fraternal, Financial Services
+
+## Timestamps
+
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented yet. Contributions welcome.
 
-## Properties
+## Common Properties
 
 - [Website](https://www.knights-of-columbus.com)
+
+## Maintainers
+
+**FN:** API Evangelist
+
+**Email:** info@apievangelist.com
