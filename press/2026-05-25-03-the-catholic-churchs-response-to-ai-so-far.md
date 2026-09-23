@@ -1,7 +1,9 @@
 ---
 title: The Catholic Church's response to AI — so far
 url: https://www.catholicworldreport.com/2026/05/15/the-catholic-churchs-response-to-ai-so-far/
-date: '2026-05-25'
+published: '2026-05-15'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"Knights of Columbus" press release artificial intelligence'
 position: 3
 source: serpapi-google

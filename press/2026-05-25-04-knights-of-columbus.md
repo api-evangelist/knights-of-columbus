@@ -1,7 +1,9 @@
 ---
 title: Knights of Columbus
 url: https://www.facebook.com/KnightsofColumbus/posts/hustle-culture-workaholism-artificial-intelligence-the-modern-workplace-raises-n/1233137882193844/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Knights of Columbus" press release artificial intelligence'
 position: 4
 source: serpapi-google

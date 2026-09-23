@@ -1,7 +1,9 @@
 ---
 title: A Voice for Humanity
 url: https://www2.kofc.org/en/news-room/columbia/2025/may/a-voice-for-humanity.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Knights of Columbus" press release artificial intelligence'
 position: 1
 source: serpapi-google

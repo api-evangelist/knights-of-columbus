@@ -1,7 +1,9 @@
 ---
 title: Crux and Knights of Columbus to Partner
 url: https://www.prnewswire.com/news-releases/crux-and-knights-of-columbus-to-partner-300236596.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Knights of Columbus" press release artificial intelligence'
 position: 5
 source: serpapi-google
